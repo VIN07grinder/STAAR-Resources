@@ -173,9 +173,6 @@ document.addEventListener("DOMContentLoaded", event => {
 // Splash texts
 const SplashT = [
   "The new and improved version of Vboi's Games",
-  "Enjoy the UI And have fun on your game grind",
-  "Ready, Set, GAME!!!",
-  "Alright Everyone, its time to unwind...",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
